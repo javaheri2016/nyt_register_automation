@@ -1,0 +1,6 @@
+pip-tools
+pytest
+pytest-bdd
+pytest-xdist
+selenium
+webdriver-manager
